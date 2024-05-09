@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://whatsapp.com/channel/0029Va8SHGnId7nJi8Zdnz3x"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://chat.whatsapp.com/Gkm2koneQcgK6fJn3ouM5U"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 
    <p align="center"> 
- <a href="https://github.com/MoonContentCreator/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/MoonContentCreator?color=red&style=flat-square"></a> 
+ <a href="https://github.com/MoonContentCreator/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" s.rc="https://img.shields.io/github/followers/MoonContentCreator?color=red&style=flat-square"></a> 
  <a href="https://github.com/MoonContentCreator/MoonContentCreator/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MoonContentCreator?color=blue&style=flat-square"></a> 
  <a href="https://github.com/MoonContentCreator/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/MoonContentCreator/BixbyBot-Md?color=red&style=flat-square"></a> 
  <a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=MoonContentCreator&color=blue&style=flat-square&label=Profile+Visual" /> 
